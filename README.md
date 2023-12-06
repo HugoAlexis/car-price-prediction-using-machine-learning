@@ -1,5 +1,12 @@
 # car-price-prediction
-Data science project for car price prediction using machine learning algorithms and exploratory data analysis.
+Data science project for car price prediction using machine learning algorithms and exploratory data analysis. This project was first done on my kaggle profile.
+
+Libraries: 
+  1. pandas
+  2. numpy
+  3. matplotlib
+  4. sklearn
+  5. seaborn
 
 ## 1. Familiarize and prepare the data
 
